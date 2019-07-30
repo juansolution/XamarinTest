@@ -1,0 +1,14 @@
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\obj\Debug\netstandard2.0\helloXamarin.csprojAssemblyReference.cache
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\bin\Debug\netstandard2.0\helloXamarin.deps.json
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\bin\Debug\netstandard2.0\helloXamarin.dll
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\bin\Debug\netstandard2.0\ref\helloXamarin.dll
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\bin\Debug\netstandard2.0\helloXamarin.pdb
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\obj\Debug\netstandard2.0\helloXamarin.csproj.CoreCompileInputs.cache
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\obj\Debug\netstandard2.0\helloXamarin.AssemblyInfoInputs.cache
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\obj\Debug\netstandard2.0\helloXamarin.AssemblyInfo.cs
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\obj\Debug\netstandard2.0\helloXamarin.dll
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\obj\Debug\netstandard2.0\ref\helloXamarin.dll
+E:\xamarin\helloXamarin\helloXamarin\helloXamarin\obj\Debug\netstandard2.0\helloXamarin.pdb
